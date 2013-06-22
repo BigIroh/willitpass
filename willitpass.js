@@ -4,12 +4,39 @@ var request = require('request');
 var when = require('when');
 
 var net = new brain.NeuralNetwork();
+var netData = {};
 
-module.exports.willItPass = function(id) {
-	//look up bill by id on sunlight
-	
+var willTheyPass = function(bills) {
+	var results = [];
+	for (var i = bills.length - 1; i >= 0; i--) {
+		var bill = bills[i];
+
+		//convert bill into something usable in the NN
+		var billData = transform(bill);
+		var prediction = net.run(billData);
+	};
 }
 
+module.exports.predictUpcoming = function(callback) {
+	var url = 'http://congress.api.sunlightfoundation.com/upcoming_bills\
+		&api=9643597dc6fc44afb4bb32f8ee8caf75_';
+
+	request(url, function (error, response, body) {
+		if (!error && response.statusCode == 200) {
+			try {
+				var bills = JSON.parse(body).results;
+				var results = willTheyPass(bills);
+				callback(null, results);
+			}
+			catch(e) {
+				callback(e);
+			}
+		}
+		else {
+			callback(error || response.statusCode);
+		}
+	});
+}
 
 module.exports.initializeNetwork = function(callback) {
 	var loadNetwork = function() {
@@ -24,7 +51,7 @@ module.exports.initializeNetwork = function(callback) {
 				d.resolve('nn.json loaded from file');
 			}
 		});
-		return d;
+		return d.promise;
 	}
 
 	var trainNewNetwork = function() {
@@ -35,15 +62,15 @@ module.exports.initializeNetwork = function(callback) {
 				d.reject(err);
 			}
 			else {
-				var data = JSON.parse(raw);
+				var netData = JSON.parse(raw);
 				console.log("input.json read successfully.  Training...");
-				var trainingResults = net.train(data, {
-					iterations: 20000,
+				var trainingResults = net.train(netData.bills, {
+					iterations: 50000,
 					log: true,
-					logPeriod: 1000
+					logPeriod: 5000
 				});
 				console.log("NN trained:", trainingResults);
-				fs.writeFile('nn.json',net.toJSON(), function(err) {
+				fs.writeFile('nn.json',JSON.stringify(net.toJSON()), function(err) {
 					if(err) {
 						console.error("Couldn't write to nn.json");
 						d.reject(err);
@@ -55,7 +82,7 @@ module.exports.initializeNetwork = function(callback) {
 				});
 			}
 		})
-		return d;
+		return d.promise;
 	}
 
 	loadNetwork().then(function(success) {
