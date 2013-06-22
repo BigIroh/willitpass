@@ -1,0 +1,1683 @@
+{ "bills" : [ { "input" : { "cosponsor_count" : 0.009966777408637873,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.021739130434782608,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 1 }
+      },
+      { "input" : { "cosponsor_count" : 0,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.029411764705882353,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 1 }
+      },
+      { "input" : { "cosponsor_count" : 0,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.021645021645021644,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 1 }
+      },
+      { "input" : { "cosponsor_count" : 0,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.02962962962962963,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 1 }
+      },
+      { "input" : { "cosponsor_count" : 0,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.03759398496240601,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 1 }
+      },
+      { "input" : { "cosponsor_count" : 0.006644518272425249,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.20000000000000001,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 1 }
+      },
+      { "input" : { "cosponsor_count" : 0,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.4166666666666667,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 1 }
+      },
+      { "input" : { "cosponsor_count" : 1,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.125,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 1 }
+      },
+      { "input" : { "cosponsor_count" : 0.2026578073089701,
+            "has_popular_title" : 1,
+            "sponsor_pass_ratio" : 0.1347517730496454,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 1 }
+      },
+      { "input" : { "cosponsor_count" : 0.0033222591362126247,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.22857142857142856,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 1 }
+      },
+      { "input" : { "cosponsor_count" : 0.016611295681063124,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.1111111111111111,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 1 }
+      },
+      { "input" : { "cosponsor_count" : 0.4219269102990033,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.06666666666666667,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 1 }
+      },
+      { "input" : { "cosponsor_count" : 0,
+            "has_popular_title" : 1,
+            "sponsor_pass_ratio" : 0.4166666666666667,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 1 }
+      },
+      { "input" : { "cosponsor_count" : 0.1461794019933555,
+            "has_popular_title" : 1,
+            "sponsor_pass_ratio" : 0.05084745762711865,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 1 }
+      },
+      { "input" : { "cosponsor_count" : 0,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.080000000000000002,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 1 }
+      },
+      { "input" : { "cosponsor_count" : 0.03322259136212625,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.03125,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 1 }
+      },
+      { "input" : { "cosponsor_count" : 0,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.043243243243243246,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 1 }
+      },
+      { "input" : { "cosponsor_count" : 0.05647840531561462,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.05128205128205128,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 1 }
+      },
+      { "input" : { "cosponsor_count" : 0.0033222591362126247,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.017543859649122806,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 1 }
+      },
+      { "input" : { "cosponsor_count" : 0,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.5333333333333333,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 1 }
+      },
+      { "input" : { "cosponsor_count" : 0.009966777408637873,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.021739130434782608,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 1 }
+      },
+      { "input" : { "cosponsor_count" : 0,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.029411764705882353,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 1 }
+      },
+      { "input" : { "cosponsor_count" : 0,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.021645021645021644,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 1 }
+      },
+      { "input" : { "cosponsor_count" : 0,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.02962962962962963,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 1 }
+      },
+      { "input" : { "cosponsor_count" : 0,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.03759398496240601,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 1 }
+      },
+      { "input" : { "cosponsor_count" : 0.006644518272425249,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.20000000000000001,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 1 }
+      },
+      { "input" : { "cosponsor_count" : 0,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.4166666666666667,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 1 }
+      },
+      { "input" : { "cosponsor_count" : 1,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.125,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 1 }
+      },
+      { "input" : { "cosponsor_count" : 0.2026578073089701,
+            "has_popular_title" : 1,
+            "sponsor_pass_ratio" : 0.1347517730496454,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 1 }
+      },
+      { "input" : { "cosponsor_count" : 0.0033222591362126247,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.22857142857142856,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 1 }
+      },
+      { "input" : { "cosponsor_count" : 0.016611295681063124,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.1111111111111111,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 1 }
+      },
+      { "input" : { "cosponsor_count" : 0.4219269102990033,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.06666666666666667,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 1 }
+      },
+      { "input" : { "cosponsor_count" : 0,
+            "has_popular_title" : 1,
+            "sponsor_pass_ratio" : 0.4166666666666667,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 1 }
+      },
+      { "input" : { "cosponsor_count" : 0.1461794019933555,
+            "has_popular_title" : 1,
+            "sponsor_pass_ratio" : 0.05084745762711865,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 1 }
+      },
+      { "input" : { "cosponsor_count" : 0,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.080000000000000002,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 1 }
+      },
+      { "input" : { "cosponsor_count" : 0.03322259136212625,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.03125,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 1 }
+      },
+      { "input" : { "cosponsor_count" : 0,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.043243243243243246,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 1 }
+      },
+      { "input" : { "cosponsor_count" : 0.05647840531561462,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.05128205128205128,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 1 }
+      },
+      { "input" : { "cosponsor_count" : 0.0033222591362126247,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.017543859649122806,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 1 }
+      },
+      { "input" : { "cosponsor_count" : 0,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.5333333333333333,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 1 }
+      },
+      { "input" : { "cosponsor_count" : 0,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.5333333333333333,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 1 }
+      },
+      { "input" : { "cosponsor_count" : 0.06976744186046512,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.09259259259259259,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 1 }
+      },
+      { "input" : { "cosponsor_count" : 0.07641196013289037,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.040000000000000001,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 1 }
+      },
+      { "input" : { "cosponsor_count" : 0,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.030303030303030304,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 1 }
+      },
+      { "input" : { "cosponsor_count" : 0.09634551495016612,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.09259259259259259,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 1 }
+      },
+      { "input" : { "cosponsor_count" : 0,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 1 }
+      },
+      { "input" : { "cosponsor_count" : 0.16279069767441862,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.20000000000000001,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 1 }
+      },
+      { "input" : { "cosponsor_count" : 0,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.022988505747126436,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 1 }
+      },
+      { "input" : { "cosponsor_count" : 0,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.5333333333333333,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 1 }
+      },
+      { "input" : { "cosponsor_count" : 0.12956810631229235,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.045454545454545456,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 1 }
+      },
+      { "input" : { "cosponsor_count" : 0,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.021645021645021644,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 1 }
+      },
+      { "input" : { "cosponsor_count" : 0.0033222591362126247,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.02127659574468085,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 1 }
+      },
+      { "input" : { "cosponsor_count" : 0.036544850498338874,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.020833333333333332,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 1 }
+      },
+      { "input" : { "cosponsor_count" : 0.009966777408637873,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.02142857142857143,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 1 }
+      },
+      { "input" : { "cosponsor_count" : 0.009966777408637873,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.02142857142857143,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 1 }
+      },
+      { "input" : { "cosponsor_count" : 0.006644518272425249,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.1347517730496454,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 1 }
+      },
+      { "input" : { "cosponsor_count" : 0.006644518272425249,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.1347517730496454,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 1 }
+      },
+      { "input" : { "cosponsor_count" : 0,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.021645021645021644,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 1 }
+      },
+      { "input" : { "cosponsor_count" : 0,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.028925619834710745,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 1 }
+      },
+      { "input" : { "cosponsor_count" : 0,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.04938271604938271,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 1 }
+      },
+      { "input" : { "cosponsor_count" : 0,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.020477815699658702,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 1 }
+      },
+      { "input" : { "cosponsor_count" : 0.0033222591362126247,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.037383177570093455,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 1 }
+      },
+      { "input" : { "cosponsor_count" : 0.0033222591362126247,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.018072289156626505,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 1 }
+      },
+      { "input" : { "cosponsor_count" : 0.0033222591362126247,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.05454545454545454,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 1 }
+      },
+      { "input" : { "cosponsor_count" : 0.019933554817275746,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.01,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 1 }
+      },
+      { "input" : { "cosponsor_count" : 0.0033222591362126247,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.01282051282051282,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 1 }
+      },
+      { "input" : { "cosponsor_count" : 0.03322259136212625,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.043243243243243246,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 1 }
+      },
+      { "input" : { "cosponsor_count" : 0.03986710963455149,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.046153846153846156,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 1 }
+      },
+      { "input" : { "cosponsor_count" : 0.0033222591362126247,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.028925619834710745,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 1 }
+      },
+      { "input" : { "cosponsor_count" : 0.0033222591362126247,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.041666666666666664,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 1 }
+      },
+      { "input" : { "cosponsor_count" : 0,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.03225806451612903,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 1 }
+      },
+      { "input" : { "cosponsor_count" : 0.013289036544850499,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.04938271604938271,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 1 }
+      },
+      { "input" : { "cosponsor_count" : 0.019933554817275746,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.008368200836820083,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 1 }
+      },
+      { "input" : { "cosponsor_count" : 0.0033222591362126247,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.024390243902439025,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 1 }
+      },
+      { "input" : { "cosponsor_count" : 0.006644518272425249,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.1347517730496454,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 1 }
+      },
+      { "input" : { "cosponsor_count" : 0.016611295681063124,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.020477815699658702,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 1 }
+      },
+      { "input" : { "cosponsor_count" : 0.019933554817275746,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.009615384615384616,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 1 }
+      },
+      { "input" : { "cosponsor_count" : 0.03986710963455149,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.011494252873563218,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 1 }
+      },
+      { "input" : { "cosponsor_count" : 0,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.03896103896103896,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 1 }
+      },
+      { "input" : { "cosponsor_count" : 0.009966777408637873,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.1347517730496454,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 1 }
+      },
+      { "input" : { "cosponsor_count" : 0.0033222591362126247,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.1347517730496454,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 1 }
+      },
+      { "input" : { "cosponsor_count" : 0.06312292358803986,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.024691358024691357,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 1 }
+      },
+      { "input" : { "cosponsor_count" : 0.0033222591362126247,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.058823529411764705,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 1 }
+      },
+      { "input" : { "cosponsor_count" : 0.0033222591362126247,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.018072289156626505,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 1 }
+      },
+      { "input" : { "cosponsor_count" : 0.009966777408637873,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.02142857142857143,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 1 }
+      },
+      { "input" : { "cosponsor_count" : 0,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.021645021645021644,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 1 }
+      },
+      { "input" : { "cosponsor_count" : 0.11627906976744186,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.06363636363636363,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 1 }
+      },
+      { "input" : { "cosponsor_count" : 0.03322259136212625,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.029556650246305417,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 1 }
+      },
+      { "input" : { "cosponsor_count" : 0.016611295681063124,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.03896103896103896,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 1 }
+      },
+      { "input" : { "cosponsor_count" : 0.04983388704318937,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.043243243243243246,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 1 }
+      },
+      { "input" : { "cosponsor_count" : 0.0033222591362126247,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.1347517730496454,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 1 }
+      },
+      { "input" : { "cosponsor_count" : 0,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.024691358024691357,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 1 }
+      },
+      { "input" : { "cosponsor_count" : 0.016611295681063124,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.03225806451612903,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 1 }
+      },
+      { "input" : { "cosponsor_count" : 0,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.041666666666666664,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 1 }
+      },
+      { "input" : { "cosponsor_count" : 0.006644518272425249,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.041666666666666664,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 1 }
+      },
+      { "input" : { "cosponsor_count" : 0,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.03225806451612903,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 1 }
+      },
+      { "input" : { "cosponsor_count" : 0.023255813953488372,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.016260162601626018,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 1 }
+      },
+      { "input" : { "cosponsor_count" : 0.016611295681063124,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.0625,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 1 }
+      },
+      { "input" : { "cosponsor_count" : 0,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.03896103896103896,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 1 }
+      },
+      { "input" : { "cosponsor_count" : 0.016611295681063124,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.015873015873015872,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 1 }
+      },
+      { "input" : { "cosponsor_count" : 0.10963455149501661,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.045454545454545456,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 1 }
+      },
+      { "input" : { "cosponsor_count" : 0.0033222591362126247,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.1347517730496454,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 1 }
+      },
+      { "input" : { "cosponsor_count" : 0.0033222591362126247,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.018072289156626505,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 1 }
+      },
+      { "input" : { "cosponsor_count" : 0.013289036544850499,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.02158273381294964,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 1 }
+      },
+      { "input" : { "cosponsor_count" : 0.0033222591362126247,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.02830188679245283,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 1 }
+      },
+      { "input" : { "cosponsor_count" : 0.0033222591362126247,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.06504065040650407,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 1 }
+      },
+      { "input" : { "cosponsor_count" : 0.0033222591362126247,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.06504065040650407,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 1 }
+      },
+      { "input" : { "cosponsor_count" : 0.023255813953488372,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.037383177570093455,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 1 }
+      },
+      { "input" : { "cosponsor_count" : 0.1461794019933555,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.0392156862745098,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 1 }
+      },
+      { "input" : { "cosponsor_count" : 0.023255813953488372,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.06363636363636363,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 1 }
+      },
+      { "input" : { "cosponsor_count" : 0.0033222591362126247,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.041666666666666664,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 1 }
+      },
+      { "input" : { "cosponsor_count" : 0,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.06504065040650407,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 1 }
+      },
+      { "input" : { "cosponsor_count" : 0.006644518272425249,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.06504065040650407,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 1 }
+      },
+      { "input" : { "cosponsor_count" : 0.0033222591362126247,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.02127659574468085,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 1 }
+      },
+      { "input" : { "cosponsor_count" : 0,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.02962962962962963,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 1 }
+      },
+      { "input" : { "cosponsor_count" : 0.07641196013289037,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.04411764705882353,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 1 }
+      },
+      { "input" : { "cosponsor_count" : 0.006644518272425249,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.037383177570093455,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 1 }
+      },
+      { "input" : { "cosponsor_count" : 0.009966777408637873,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.019230769230769232,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 1 }
+      },
+      { "input" : { "cosponsor_count" : 0.016611295681063124,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.020477815699658702,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 1 }
+      },
+      { "input" : { "cosponsor_count" : 0.0033222591362126247,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.06363636363636363,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 1 }
+      },
+      { "input" : { "cosponsor_count" : 0.019933554817275746,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.02142857142857143,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 0 }
+      },
+      { "input" : { "cosponsor_count" : 0.0033222591362126247,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.03896103896103896,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 0 }
+      },
+      { "input" : { "cosponsor_count" : 0.006644518272425249,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 0 }
+      },
+      { "input" : { "cosponsor_count" : 0.03986710963455149,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.00980392156862745,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 0 }
+      },
+      { "input" : { "cosponsor_count" : 0.03322259136212625,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.043243243243243246,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 0 }
+      },
+      { "input" : { "cosponsor_count" : 0.03322259136212625,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.009615384615384616,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 0 }
+      },
+      { "input" : { "cosponsor_count" : 0.0033222591362126247,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.020833333333333332,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 0 }
+      },
+      { "input" : { "cosponsor_count" : 0.0033222591362126247,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.01639344262295082,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 0 }
+      },
+      { "input" : { "cosponsor_count" : 0.013289036544850499,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.04411764705882353,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 0 }
+      },
+      { "input" : { "cosponsor_count" : 0,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 0 }
+      },
+      { "input" : { "cosponsor_count" : 0,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 0 }
+      },
+      { "input" : { "cosponsor_count" : 0.0033222591362126247,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 0 }
+      },
+      { "input" : { "cosponsor_count" : 0.0033222591362126247,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.041666666666666664,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 0 }
+      },
+      { "input" : { "cosponsor_count" : 0.0033222591362126247,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.037383177570093455,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 0 }
+      },
+      { "input" : { "cosponsor_count" : 0.009966777408637873,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.01282051282051282,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 0 }
+      },
+      { "input" : { "cosponsor_count" : 0.0033222591362126247,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 0 }
+      },
+      { "input" : { "cosponsor_count" : 0.0033222591362126247,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 0 }
+      },
+      { "input" : { "cosponsor_count" : 0.0033222591362126247,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.046153846153846156,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 0 }
+      },
+      { "input" : { "cosponsor_count" : 0,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.031446540880503145,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 0 }
+      },
+      { "input" : { "cosponsor_count" : 0,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.026881720430107527,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 0 }
+      },
+      { "input" : { "cosponsor_count" : 0.019933554817275746,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.02142857142857143,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 0 }
+      },
+      { "input" : { "cosponsor_count" : 0.0033222591362126247,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.03896103896103896,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 0 }
+      },
+      { "input" : { "cosponsor_count" : 0.006644518272425249,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 0 }
+      },
+      { "input" : { "cosponsor_count" : 0.03986710963455149,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.00980392156862745,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 0 }
+      },
+      { "input" : { "cosponsor_count" : 0.03322259136212625,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.043243243243243246,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 0 }
+      },
+      { "input" : { "cosponsor_count" : 0.03322259136212625,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.009615384615384616,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 0 }
+      },
+      { "input" : { "cosponsor_count" : 0.0033222591362126247,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.020833333333333332,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 0 }
+      },
+      { "input" : { "cosponsor_count" : 0.0033222591362126247,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.01639344262295082,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 0 }
+      },
+      { "input" : { "cosponsor_count" : 0.013289036544850499,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.04411764705882353,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 0 }
+      },
+      { "input" : { "cosponsor_count" : 0,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 0 }
+      },
+      { "input" : { "cosponsor_count" : 0,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 0 }
+      },
+      { "input" : { "cosponsor_count" : 0.0033222591362126247,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 0 }
+      },
+      { "input" : { "cosponsor_count" : 0.0033222591362126247,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.041666666666666664,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 0 }
+      },
+      { "input" : { "cosponsor_count" : 0.0033222591362126247,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.037383177570093455,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 0 }
+      },
+      { "input" : { "cosponsor_count" : 0.009966777408637873,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.01282051282051282,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 0 }
+      },
+      { "input" : { "cosponsor_count" : 0.0033222591362126247,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 0 }
+      },
+      { "input" : { "cosponsor_count" : 0.0033222591362126247,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 0 }
+      },
+      { "input" : { "cosponsor_count" : 0.0033222591362126247,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.046153846153846156,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 0 }
+      },
+      { "input" : { "cosponsor_count" : 0,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.031446540880503145,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 0 }
+      },
+      { "input" : { "cosponsor_count" : 0,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.026881720430107527,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 0 }
+      },
+      { "input" : { "cosponsor_count" : 0.023255813953488372,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 0 }
+      },
+      { "input" : { "cosponsor_count" : 0.016611295681063124,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.018072289156626505,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 0 }
+      },
+      { "input" : { "cosponsor_count" : 0.023255813953488372,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 0 }
+      },
+      { "input" : { "cosponsor_count" : 0,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 0 }
+      },
+      { "input" : { "cosponsor_count" : 0,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.021645021645021644,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 0 }
+      },
+      { "input" : { "cosponsor_count" : 0.0033222591362126247,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.020477815699658702,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 0 }
+      },
+      { "input" : { "cosponsor_count" : 0,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 0 }
+      },
+      { "input" : { "cosponsor_count" : 0.03322259136212625,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 0 }
+      },
+      { "input" : { "cosponsor_count" : 0.023255813953488372,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.08333333333333333,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 0 }
+      },
+      { "input" : { "cosponsor_count" : 0.03986710963455149,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 0 }
+      },
+      { "input" : { "cosponsor_count" : 0.026578073089700997,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 0 }
+      },
+      { "input" : { "cosponsor_count" : 0.026578073089700997,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 0 }
+      },
+      { "input" : { "cosponsor_count" : 0.0033222591362126247,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.017699115044247787,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 0 }
+      },
+      { "input" : { "cosponsor_count" : 0.0033222591362126247,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 0 }
+      },
+      { "input" : { "cosponsor_count" : 0,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.03759398496240601,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 0 }
+      },
+      { "input" : { "cosponsor_count" : 0.0033222591362126247,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.0136986301369863,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 0 }
+      },
+      { "input" : { "cosponsor_count" : 0.006644518272425249,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 0 }
+      },
+      { "input" : { "cosponsor_count" : 0,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.057692307692307696,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 0 }
+      },
+      { "input" : { "cosponsor_count" : 0,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 0 }
+      },
+      { "input" : { "cosponsor_count" : 0,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 0 }
+      },
+      { "input" : { "cosponsor_count" : 0.04983388704318937,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 0 }
+      },
+      { "input" : { "cosponsor_count" : 0,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 0 }
+      },
+      { "input" : { "cosponsor_count" : 0,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 0 }
+      },
+      { "input" : { "cosponsor_count" : 0,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 0 }
+      },
+      { "input" : { "cosponsor_count" : 0.21262458471760798,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.027777777777777776,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 0 }
+      },
+      { "input" : { "cosponsor_count" : 0,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 0 }
+      },
+      { "input" : { "cosponsor_count" : 0.11627906976744186,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 0 }
+      },
+      { "input" : { "cosponsor_count" : 0.06976744186046512,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.043478260869565216,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 0 }
+      },
+      { "input" : { "cosponsor_count" : 0,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 0 }
+      },
+      { "input" : { "cosponsor_count" : 0.013289036544850499,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.057692307692307696,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 0 }
+      },
+      { "input" : { "cosponsor_count" : 0.0033222591362126247,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 0 }
+      },
+      { "input" : { "cosponsor_count" : 0.016611295681063124,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.1111111111111111,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 0 }
+      },
+      { "input" : { "cosponsor_count" : 0.009966777408637873,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.1111111111111111,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 0 }
+      },
+      { "input" : { "cosponsor_count" : 0.013289036544850499,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 0 }
+      },
+      { "input" : { "cosponsor_count" : 0.019933554817275746,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.07692307692307693,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 0 }
+      },
+      { "input" : { "cosponsor_count" : 0,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 0 }
+      },
+      { "input" : { "cosponsor_count" : 0.019933554817275746,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 0 }
+      },
+      { "input" : { "cosponsor_count" : 0,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 0 }
+      },
+      { "input" : { "cosponsor_count" : 0.006644518272425249,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.043243243243243246,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 0 }
+      },
+      { "input" : { "cosponsor_count" : 0.0033222591362126247,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.013333333333333334,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 0 }
+      },
+      { "input" : { "cosponsor_count" : 0.0033222591362126247,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 0 }
+      },
+      { "input" : { "cosponsor_count" : 0.0033222591362126247,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.0027397260273972603,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 0 }
+      },
+      { "input" : { "cosponsor_count" : 0.0033222591362126247,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.009615384615384616,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 0 }
+      },
+      { "input" : { "cosponsor_count" : 0.009966777408637873,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.009174311926605505,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 0 }
+      },
+      { "input" : { "cosponsor_count" : 0.0033222591362126247,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 0 }
+      },
+      { "input" : { "cosponsor_count" : 0,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 0 }
+      },
+      { "input" : { "cosponsor_count" : 0.0033222591362126247,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.041666666666666664,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 0 }
+      },
+      { "input" : { "cosponsor_count" : 0.09302325581395349,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.05454545454545454,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 0 }
+      },
+      { "input" : { "cosponsor_count" : 0.18272425249169436,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.041666666666666664,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 0 }
+      },
+      { "input" : { "cosponsor_count" : 0.0033222591362126247,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.01639344262295082,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 0 }
+      },
+      { "input" : { "cosponsor_count" : 0.11295681063122924,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.031446540880503145,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 0 }
+      },
+      { "input" : { "cosponsor_count" : 0,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 0 }
+      },
+      { "input" : { "cosponsor_count" : 0.0033222591362126247,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.023255813953488372,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 0 }
+      },
+      { "input" : { "cosponsor_count" : 0.006644518272425249,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 0 }
+      },
+      { "input" : { "cosponsor_count" : 0,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.009345794392523364,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 0 }
+      },
+      { "input" : { "cosponsor_count" : 0.0033222591362126247,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 0 }
+      },
+      { "input" : { "cosponsor_count" : 0.036544850498338874,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.006896551724137931,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 0 }
+      },
+      { "input" : { "cosponsor_count" : 0.0033222591362126247,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 0 }
+      },
+      { "input" : { "cosponsor_count" : 0.009966777408637873,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.03896103896103896,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 0 }
+      },
+      { "input" : { "cosponsor_count" : 0,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 0 }
+      },
+      { "input" : { "cosponsor_count" : 0.023255813953488372,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 0 }
+      },
+      { "input" : { "cosponsor_count" : 0,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.022222222222222223,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 0 }
+      },
+      { "input" : { "cosponsor_count" : 0.053156146179401995,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.006896551724137931,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 0 }
+      },
+      { "input" : { "cosponsor_count" : 0.0033222591362126247,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 0 }
+      },
+      { "input" : { "cosponsor_count" : 0,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 0 }
+      },
+      { "input" : { "cosponsor_count" : 0.006644518272425249,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.030303030303030304,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 0 }
+      },
+      { "input" : { "cosponsor_count" : 0.036544850498338874,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 0 }
+      },
+      { "input" : { "cosponsor_count" : 0.11295681063122924,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.025000000000000001,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 0 }
+      },
+      { "input" : { "cosponsor_count" : 0.07973421926910298,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.023809523809523808,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 0 }
+      },
+      { "input" : { "cosponsor_count" : 0.059800664451827246,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.01282051282051282,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 0 }
+      },
+      { "input" : { "cosponsor_count" : 0.0033222591362126247,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.01639344262295082,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 0 }
+      },
+      { "input" : { "cosponsor_count" : 0.019933554817275746,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.00980392156862745,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 0 }
+      },
+      { "input" : { "cosponsor_count" : 0.07973421926910298,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.0027397260273972603,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 0 }
+      },
+      { "input" : { "cosponsor_count" : 0.006644518272425249,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.011764705882352941,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 0 }
+      },
+      { "input" : { "cosponsor_count" : 0.0033222591362126247,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 0 }
+      },
+      { "input" : { "cosponsor_count" : 0,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 0 }
+      },
+      { "input" : { "cosponsor_count" : 0,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.008368200836820083,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 0 }
+      },
+      { "input" : { "cosponsor_count" : 0,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.008368200836820083,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 0 }
+      },
+      { "input" : { "cosponsor_count" : 0,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0.020477815699658702,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 0 }
+      },
+      { "input" : { "cosponsor_count" : 0.023255813953488372,
+            "has_popular_title" : 0,
+            "sponsor_pass_ratio" : 0,
+            "withdrawn_cosponsors_count" : 0
+          },
+        "output" : { "pass" : 0 }
+      }
+    ],
+  "maxCosponsors" : 301
+}
