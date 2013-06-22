@@ -67,7 +67,7 @@ var willTheyPass = function(bills, callback) {
 
 module.exports.predictUpcoming = function(callback) {
 	var url = 'http://congress.api.sunlightfoundation.com/upcoming_bills\
-		&api=9643597dc6fc44afb4bb32f8ee8caf75_';
+		?apikey=9643597dc6fc44afb4bb32f8ee8caf75';
 
 	request(url, function (error, response, body) {
 		if (!error && response.statusCode == 200) {
