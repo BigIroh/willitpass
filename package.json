@@ -8,7 +8,8 @@
     "jade": "~0.31.1",
     "request": "~2.21.0",
     "when": "~2.1.0",
-    "sunlight-congress-api": "0.0.3"
+    "sunlight-congress-api": "0.0.3",
+    "brain": "~0.6.1"
   },
   "devDependencies": {},
   "scripts": {

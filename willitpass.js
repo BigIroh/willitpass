@@ -6,14 +6,62 @@ var when = require('when');
 var net = new brain.NeuralNetwork();
 var netData = {};
 
-var willTheyPass = function(bills) {
+var sunlight = require('sunlight-congress-api');
+sunlight.init('9643597dc6fc44afb4bb32f8ee8caf75');
+
+sponsorMap = {}
+
+var processSponsor = function(sponsorId) {
+	var deferred = when.defer()
+	if(sponsorMap[sponsorId]) {
+		deferred.resolve(sponsorMap[sponsorId])
+	} else {
+		sunlight
+			.bills()
+			.filter('history.enacted', 'true')
+			.filter('sponsor_id', sponsorId)
+			.fields()
+			.call(function(data) {
+				var succeeded = data.count;
+				sunlight
+					.bills()
+					.filter('sponsor_id', sponsorId)
+					.fields()
+					.call(function(data) {
+						deferred.resolve(sponsorMap[sponsorId] = succeeded/data.count)
+					})
+			})
+	}
+	return deferred.promise;
+}
+
+
+
+var transform = function(bill, callback) {
+	processSponsor(bill.sponsor_id).then(function(ratio) {
+		callback({
+			cosponsor_count: bill.cosponsors_count/301,
+			withdrawn_cosponsors_count: 0,
+			sponsor_pass_ratio: ratio,
+			has_popular_title: (bill.popular_title ? 1 : 0)
+		})
+		
+	})
+}
+
+var willTheyPass = function(bills, callback) {
 	var results = [];
 	for (var i = bills.length - 1; i >= 0; i--) {
 		var bill = bills[i];
 
 		//convert bill into something usable in the NN
-		var billData = transform(bill);
-		var prediction = net.run(billData);
+		transform(bill, function(billData) {
+			var prediction = net.run(billData);
+			results.push(prediction);
+			if(results.length == bills.length) {
+				callback(null, results)
+			}
+		});
 	};
 }
 
@@ -25,14 +73,15 @@ module.exports.predictUpcoming = function(callback) {
 		if (!error && response.statusCode == 200) {
 			try {
 				var bills = JSON.parse(body).results;
-				var results = willTheyPass(bills);
-				callback(null, results);
+				willTheyPass(bills, callback)
 			}
 			catch(e) {
 				callback(e);
 			}
 		}
 		else {
+			console.log(error)
+			console.log(response.statusCode)
 			callback(error || response.statusCode);
 		}
 	});
