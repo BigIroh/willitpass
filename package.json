@@ -1,0 +1,23 @@
+{
+  "name": "willitpass",
+  "version": "0.0.0",
+  "description": "ERROR: No README.md file found!",
+  "main": "app.js",
+  "dependencies": {
+    "express": "~3.2.5",
+    "jade": "~0.31.1",
+    "request": "~2.21.0",
+    "when": "~2.1.0",
+    "sunlight-congress-api": "0.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BigIroh/willitpass.git"
+  },
+  "author": "",
+  "license": "BSD"
+}
