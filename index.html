@@ -1,7 +1,15 @@
 <html>
+	<h1>Predictions for upcoming bills</h1>
 	<script src="knockout.js"></script>
 	<script>
-		
+		var vm = {
+			predictions: ko.observableArray();
+		};
+		ko.applyBindings(vm);
+		$.get('/bills', function(data) {
+			console.log("Got data back:",data);
+			vm.predictions(data);
+		})
 	</script>
 	<div data-bind="foreach: predictions">
 		<div data-bind="text: name()"></div>
